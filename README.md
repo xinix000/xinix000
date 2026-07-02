@@ -58,6 +58,8 @@
 
 ---
 
+> ⚡ **Fun fact:** this README updates itself every midnight — the snake works the night shift. 🐍
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=xinix000&style=flat-square&color=blueviolet" alt="Profile views" />
 </p>

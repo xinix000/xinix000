@@ -20,7 +20,7 @@
 
 ### 🛠️ Tech I play with
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="C# / .NET" />
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL Server / T-SQL" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />

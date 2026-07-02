@@ -47,10 +47,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=xinix000&theme=tokyonight&hide_border=true" alt="Streak" />
 </p>
 
-<p align="center">
-  <img src="https://ghchart.rshah.org/26a641/xinix000" alt="Contribution graph" width="90%" />
-</p>
-
 ### 🐍 The snake is eating my commits
 
 <p align="center">

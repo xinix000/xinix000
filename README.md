@@ -38,12 +38,20 @@
 ### 📊 GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xinix000&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xinix000&theme=tokyonight&hide_border=true" alt="Streak" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xinix000&theme=tokyonight&hide_border=true" alt="Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=xinix000&theme=tokyonight&no-frame=true&column=7&margin-w=8" alt="Trophies" />
+  <img src="https://ghchart.rshah.org/26a641/xinix000" alt="Contribution graph" width="90%" />
+</p>
+
+### 🐍 The snake is eating my commits
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xinix000/xinix000/output/github-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/xinix000/xinix000/output/github-snake.svg" alt="Contribution snake" />
+  </picture>
 </p>
 
 ---

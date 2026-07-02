@@ -9,9 +9,11 @@
 ### 🧑‍💻 About me
 
 - 🇹🇭 Software engineer based in Thailand
-- 🐍 Writing **Python** for a living — automating everything I can
+- 🏢 By day: taming a **large-scale enterprise ERP** — C#/.NET WinForms, SQL Server with **12,000+ stored procedures**, and the legacy dragons that live inside
+- 🕵️ My specialty is **root-cause analysis** — digging through decades-old code and data to find *why* it broke, building live reproductions, and writing research reports so clear that even PMs enjoy reading them (in **English and Thai**)
+- 🤖 Deep into **LLM & multi-agent systems** — I build **Claude Code skills** that research defects, drive the real desktop app via computer-use to reproduce bugs, generate visual HTML explainers, and raise PRs — my agents do the boring parts
+- 🐍 Writing **Python** to automate everything I can
 - 🦀 Building **high-performance trading bots in Rust** — prediction markets & DeFi arbitrage
-- 🤖 Deep into **LLM & multi-agent systems** — I let AI agents trade, code, and think with me
 - 🎮 Gamer who codes: I don't just play games, I **build tools around them** — achievement trackers, companion apps, game data mining
 - 🔍 Curious about **reverse engineering** — taking apps apart to see how they really tick
 - ⚡ Daily driver: **Claude Code** — my pair programmer never sleeps
@@ -19,6 +21,8 @@
 ### 🛠️ Tech I play with
 
 <p>
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="C# / .NET" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL Server / T-SQL" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
@@ -30,6 +34,8 @@
 
 ### 🚀 Currently
 
+- 🧰 Growing my **personal Claude Code skill library** — defect research pipelines, desktop-automation test drivers, bilingual visual explainers, one-command PR workflows
+- 🏗️ Helping modernize **legacy WinForms into React + .NET 8** — one vertical slice at a time
 - 🦀 Sharpening my **Rust** — real-time market data, low-latency bots
 - 🧪 Experimenting with **multi-agent LLM frameworks** for financial trading
 - ⛓️ Studying **flash-loan arbitrage** strategies on Ethereum

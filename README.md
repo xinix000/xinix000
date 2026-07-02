@@ -10,14 +10,18 @@
 
 - 🇹🇭 Software engineer based in Thailand
 - 🐍 Writing **Python** for a living — automating everything I can
+- 🦀 Building **high-performance trading bots in Rust** — prediction markets & DeFi arbitrage
 - 🤖 Deep into **LLM & multi-agent systems** — I let AI agents trade, code, and think with me
-- 📈 Exploring **algorithmic trading & DeFi** — flash loans, arbitrage, and market microstructure
+- 🎮 Gamer who codes: I don't just play games, I **build tools around them** — achievement trackers, companion apps, game data mining
+- 🔍 Curious about **reverse engineering** — taking apps apart to see how they really tick
 - ⚡ Daily driver: **Claude Code** — my pair programmer never sleeps
 
 ### 🛠️ Tech I play with
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
   <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity" />
   <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum" />
   <img src="https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude AI" />
@@ -26,9 +30,10 @@
 
 ### 🚀 Currently
 
+- 🦀 Sharpening my **Rust** — real-time market data, low-latency bots
 - 🧪 Experimenting with **multi-agent LLM frameworks** for financial trading
 - ⛓️ Studying **flash-loan arbitrage** strategies on Ethereum
-- 🔧 Building small tools that make AI cheaper and faster to use
+- 🎮 Hacking on **game tooling** — from Steam achievements to game data pipelines
 
 ### 📊 GitHub stats
 
